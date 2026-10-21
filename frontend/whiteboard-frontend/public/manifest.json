@@ -1,0 +1,15 @@
+{
+  "short_name": "DrawSync",
+  "name": "DrawSync Collaborative Whiteboard",
+  "icons": [
+    {
+      "src": "favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "any"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#09090b",
+  "background_color": "#09090b"
+}
